@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 304 one love
 
 You can use the [editor on GitHub](https://github.com/vlhell/pages-testing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
